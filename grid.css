@@ -1,0 +1,13 @@
+*{
+    box-sizing:border-box;
+}
+
+div{
+background-color: crimson;
+}
+p{
+    color: cornsilk;
+    width:16%;
+    margin-right: auto;
+    margin-left: auto;
+}
